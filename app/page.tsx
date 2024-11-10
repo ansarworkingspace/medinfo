@@ -1,7 +1,6 @@
 import { Outfit } from "next/font/google";
 
 import Footer from "./components/Footer";
-import Header from "./components/Header";
 import Hero from "./components/Hero";
 
 // Call the font loader at the module scope
